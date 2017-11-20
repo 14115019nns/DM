@@ -1,0 +1,16 @@
+.navbar{
+	background-color: #10cc13;
+	border-color:#10cc13;
+	color: white;
+	font-style: bold;
+	margin : 0px;
+}
+.container-fluid .nav li a{
+	color: white;
+}
+.container-fluid .navbar-header .navbar-brand{
+	color: white;
+}
+.dropdown-menu li a{
+	color: black;
+}
